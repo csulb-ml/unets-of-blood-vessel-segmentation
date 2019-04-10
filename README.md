@@ -1,8 +1,12 @@
 # UNet-Based Models of Blood Vessel Segmentation
 
+![](figures/Comparison.eps)
+
 This respository contains several U-Net based models for the purpose of segmenting blood vessels in retinal images.
 
-The target datasets are [DRIVE](https://www.isi.uu.nl/Research/Databases/DRIVE/) and [STARE](http://cecas.clemson.edu/~ahoover/stare/).
+### Datasets:
+- [DRIVE](https://www.isi.uu.nl/Research/Databases/DRIVE/)
+- [STARE](http://cecas.clemson.edu/~ahoover/stare/).
 
 ### Dependencies:
 Baseline, SDCNN
